@@ -1,10 +1,8 @@
-- Hi, I’m F.N.Vedrova
-- I’m interested in building robot, machines, etc, and making games.
-- I’m currently learning Phython and GDscript
+- Hi, I’m F.N Vedrova
+- I’m interested in programming, etc, and making games.
+- I’m currently learning Phython and Godot.
 - I’m looking to collaborate on new projects and learn from it
-- How to reach me (don't)
-- Pronouns: he\him
-- Fun fact: I am a beginner, I don't like showing my face/voice
+- Fun fact: I am a beginner programmer and decent at art.
 
 <!---
 FVedrova/FVedrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
